@@ -10,7 +10,7 @@ This project is an implementation of ``Self-supervised Graph-level Representatio
 We provide the pre-training and fine-tuning codes and also the pre-trained model on chemistry domain in this repository, and a more complete code version including the biology domain will be announced on the [TorchDrug](https://deepgraphlearning.github.io/torchdrug-site-dev/docs/index.html) platform developed by [MilaGraph](https://github.com/DeepGraphLearning) group. 
 Also, we would like to appreciate the excellent work of [Pretrain-GNNs](https://github.com/snap-stanford/pretrain-gnns) which lays a solid foundation for our work.
 
-More details of this work can be found in our paper: [[Paper (arxiv)]]().
+More details of this work can be found in our paper: [[Paper (arXiv)]]().
 
 ## Prerequisites
 
