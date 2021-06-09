@@ -10,7 +10,7 @@ This project is an implementation of ``Self-supervised Graph-level Representatio
 We provide the pre-training and fine-tuning codes and also the pre-trained model on chemistry domain in this repository, and a more complete code version including the biology domain will be announced on the [TorchDrug](https://deepgraphlearning.github.io/torchdrug-site-dev/docs/index.html) platform developed by [MilaGraph](https://github.com/DeepGraphLearning) group. 
 Also, we would like to appreciate the excellent work of [Pretrain-GNNs](https://github.com/snap-stanford/pretrain-gnns) which lays a solid foundation for our work.
 
-More details of this work can be found in our paper: [[Paper (arXiv)]]().
+More details of this work can be found in our paper: [[Paper (arXiv)]](https://arxiv.org/pdf/2106.04113.pdf).
 
 ## Prerequisites
 
@@ -65,7 +65,7 @@ If this work helps your research, you can kindly cite the following paper (will 
 @article{xu2021self-supervised,
   title={Self-supervised Graph-level Representation Learning with Local and Global Structure},
   author={Xu, Minghao and Wang, Hang and Ni, Bingbing and Guo, Hongyu and Tang, Jian},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2106.04113},
   year={2021}
 }
 ```
